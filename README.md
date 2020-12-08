@@ -8,6 +8,3 @@ Si sale...
 
 
 Cambio nuevo
-
-
-Ahor asi debería salir :3
